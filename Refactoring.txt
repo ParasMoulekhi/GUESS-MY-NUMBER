@@ -1,0 +1,1 @@
+Refactoring JavaScript : Refactoring means updating the source code without changing the behaviour of the web application. Refactoring helps you keep your code solid, dry, and easy to maintain and away your code from DRY Principle.
